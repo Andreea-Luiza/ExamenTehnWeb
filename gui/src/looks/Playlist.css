@@ -1,0 +1,50 @@
+.song-list {
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 100vw;
+  }
+  
+  .playlist {
+      height: 200px;
+      width: 200px;
+      background-color:#FFC8DD;
+      margin: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: row wrap;
+      padding: 10px;
+    }
+    
+    .playlist .descriere {
+      height: 50px;
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #FFC8DD;
+    }
+
+    
+    .playlist .dataPubdataCrearelicarii {
+      height: 50px;
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+     
+    }
+  
+    .playlist .delete {
+      height: 30px;
+      width: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgb(82, 197, 212);
+    }
+  
+  
+   
+  
+   

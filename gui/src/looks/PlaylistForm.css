@@ -1,0 +1,37 @@
+.playlist-form {
+    height: 210px;
+    width: 200px;
+    background-color: #FFEAEE;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+  }
+  
+  .playlist-form .form-descriere {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .movie-form .form-dataCreare {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .movie-form .add {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BDE0FE;
+  }
